@@ -1,7 +1,8 @@
 
 # 🎯 Case Flow - Sistema Avançado de Gerenciamento de Chamados
 
-Sistema profissional de gerenciamento de chamados baseado no design Figma, desenvolvido com Next.js 14, TypeScript e tecnologias modernas. Oferece uma experiência completa de gestão de tickets com chatbot inteligente, dashboard interativo e controle de acesso por níveis. (Link para o projeto: caseflow.abacusai.app)
+🌐 **[VER DEMO AO VIVO](https://inovaapp2025.vercel.app)** | 📁 [GitHub](https://github.com/Luizfbm/InovaApp2025-EQPDEV)
+Sistema profissional de gerenciamento de chamados baseado no design Figma, desenvolvido com Next.js 14, TypeScript e tecnologias modernas. Oferece uma experiência completa de gestão de tickets com chatbot inteligente, dashboard interativo e controle de acesso por níveis. 
 
 ## ✨ Funcionalidades Principais
 
